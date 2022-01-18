@@ -1,9 +1,5 @@
 # GitHub Public Repositories Scanner
 
-[![Docker Stars](https://img.shields.io/docker/stars/guessi/github-scanner.svg)](https://hub.docker.com/r/guessi/github-scanner/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/guessi/github-scanner.svg)](https://hub.docker.com/r/guessi/github-scanner/)
-[![Docker Automated](https://img.shields.io/docker/automated/guessi/github-scanner.svg)](https://hub.docker.com/r/guessi/github-scanner/)
-
 a simple helper tool for scanninag public repositories on GitHub
 
 # Prerequisites
